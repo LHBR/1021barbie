@@ -12,6 +12,26 @@ export default function Main(){
              Autobots se unam a uma poderosa facção de Transformers conhecida como Maximals para salvar a Terra."
              imagem="/transformers.jpg"
              />
+              <Filme titulo="Tranformers" sinopse="Uma nova ameaça capaz 
+            de destruir todo o planeta surge fazendo com que Optimus Prime e os
+             Autobots se unam a uma poderosa facção de Transformers conhecida como Maximals para salvar a Terra."
+             imagem="/transformers.jpg"
+             />
+              <Filme titulo="Tranformers" sinopse="Uma nova ameaça capaz 
+            de destruir todo o planeta surge fazendo com que Optimus Prime e os
+             Autobots se unam a uma poderosa facção de Transformers conhecida como Maximals para salvar a Terra."
+             imagem="/transformers.jpg"
+             />
+              <Filme titulo="Tranformers" sinopse="Uma nova ameaça capaz 
+            de destruir todo o planeta surge fazendo com que Optimus Prime e os
+             Autobots se unam a uma poderosa facção de Transformers conhecida como Maximals para salvar a Terra."
+             imagem="/transformers.jpg"
+             />
+              <Filme titulo="Tranformers" sinopse="Uma nova ameaça capaz 
+            de destruir todo o planeta surge fazendo com que Optimus Prime e os
+             Autobots se unam a uma poderosa facção de Transformers conhecida como Maximals para salvar a Terra."
+             imagem="/transformers.jpg"
+             />
         </main>
     )
 }
