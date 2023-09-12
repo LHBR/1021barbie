@@ -1,9 +1,6 @@
 import './Header.css'
 function Header(){
-    const texto = 'Guilherme'
-    function mudaTexto(){
-        texto = "terenciani"
-    }
+ const texto = 'Guilherme'
     return(
         <>
         <header>
@@ -12,9 +9,7 @@ function Header(){
             </div>
             <nav>
                 <ul>
-                    <li>
-                        <input className='barrapesquisa' type="text" />
-                    </li>
+                  
                     <li>
                         <a href="#">Home</a>
                     </li>
