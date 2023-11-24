@@ -10,6 +10,6 @@ db.getCollection('filmes').insertOne({
         _id: 3,
         titulo: "O Poderoso Chefão",
         descricao: "Filme de máfia",
-        imagem: "fotofilme.jpg",
+        imagem: "chefao.jpg",
       
 });
